@@ -1,0 +1,264 @@
+[30-04-2019 14:29:55] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:29:57] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:29:57] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:29:57] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:29:57] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:29:57 GMT, Server: Apache, paypal-debug-id: ea951b37adbfd, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: ea951b37adbfd, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:29:57] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:29:57] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:33:28] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:33:29] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:33:29] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:33:29] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:33:29] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:33:29 GMT, Server: Apache, paypal-debug-id: 4f6f35a45bec, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 4f6f35a45bec, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:33:29] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:33:29] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:33:54] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:33:55] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:33:55] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:33:55] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:33:55] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:33:54 GMT, Server: Apache, paypal-debug-id: 4e0d4896f07a2, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 4e0d4896f07a2, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:33:55] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:33:55] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:35:41] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:35:42] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:35:42] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:35:42] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:35:42] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:35:42 GMT, Server: Apache, paypal-debug-id: 8ad92df6ba337, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 8ad92df6ba337, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:35:42] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:35:42] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:37:19] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:37:20] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:37:20] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:37:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:37:20] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:37:20 GMT, Server: Apache, paypal-debug-id: afcfcb522f61f, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: afcfcb522f61f, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:37:20] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:37:20] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:37:33] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:37:34] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:37:34] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:37:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:37:34] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:37:34 GMT, Server: Apache, paypal-debug-id: 3de5fe9329345, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 3de5fe9329345, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:37:34] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:37:34] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:41:46] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:41:48] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:41:48] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:41:48] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:41:48] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:41:48 GMT, Server: Apache, paypal-debug-id: 4938fd0819407, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 4938fd0819407, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:41:48] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:41:48] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:42:44] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:42:45] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:42:45] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:42:45] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:42:45] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:42:45 GMT, Server: Apache, paypal-debug-id: b12403de2a5a7, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: b12403de2a5a7, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:42:45] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:42:45] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:45:05] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:45:06] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:45:06] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:45:06] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:45:06] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:45:06 GMT, Server: Apache, paypal-debug-id: 79c989a010a1e, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 79c989a010a1e, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:45:06] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:45:06] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:50:36] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:50:37] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:50:37] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:50:37] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:50:37] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:50:37 GMT, Server: Apache, paypal-debug-id: e5577a1e40b3, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: e5577a1e40b3, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:50:37] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:50:37] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:51:06] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:51:07] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:51:07] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:51:07] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:51:07] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:51:07 GMT, Server: Apache, paypal-debug-id: a054b3c37ec36, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: a054b3c37ec36, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:51:07] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:51:07] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:55:03] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:55:04] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:55:04] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:55:04] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:55:04] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:55:04 GMT, Server: Apache, paypal-debug-id: 656a20a32e6cc, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 656a20a32e6cc, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:55:04] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:55:04] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:55:16] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:55:17] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:55:17] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:55:17] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:55:17] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:55:17 GMT, Server: Apache, paypal-debug-id: 3c8693736f553, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 3c8693736f553, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:55:17] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:55:17] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 14:59:35] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 14:59:36] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 14:59:36] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 14:59:36] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 14:59:36] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 14:59:36 GMT, Server: Apache, paypal-debug-id: 824a5d6cc208a, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 824a5d6cc208a, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 14:59:36] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 14:59:36] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 15:13:52] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 15:13:54] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 15:13:54] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 15:13:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 15:13:54] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 15:13:53 GMT, Server: Apache, paypal-debug-id: 3ec5165adb539, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 3ec5165adb539, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 15:13:54] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 15:13:54] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 15:19:35] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 15:19:36] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 15:19:36] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 15:19:37] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 15:19:37] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 15:19:36 GMT, Server: Apache, paypal-debug-id: 7798490bd2028, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 7798490bd2028, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 15:19:37] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 15:19:37] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 15:26:30] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 15:26:31] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 15:26:31] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 15:26:31] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 15:26:31] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 15:26:31 GMT, Server: Apache, paypal-debug-id: 37f9dfa2a8e82, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 37f9dfa2a8e82, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 15:26:31] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 15:26:31] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 15:30:52] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 15:30:54] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 15:30:54] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 15:30:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 15:30:54] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 15:30:53 GMT, Server: Apache, paypal-debug-id: a102d9ced7776, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: a102d9ced7776, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 15:30:54] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 15:30:54] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 15:44:19] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 15:44:21] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 15:44:21] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 15:44:21] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 15:44:21] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 15:44:21 GMT, Server: Apache, paypal-debug-id: 7ce5861e92e1, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 7ce5861e92e1, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 15:44:21] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 15:44:21] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 16:16:07] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 16:16:09] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 16:16:09] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 16:16:09] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 16:16:09] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 16:16:09 GMT, Server: Apache, paypal-debug-id: b671c6046c099, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: b671c6046c099, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 16:16:09] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 16:16:09] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 16:40:21] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 16:40:23] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 16:40:23] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 16:40:23] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 16:40:23] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 16:40:23 GMT, Server: Apache, paypal-debug-id: 1c8687ef69cb9, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 1c8687ef69cb9, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 16:40:23] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 16:40:23] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
+[30-04-2019 16:50:55] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[30-04-2019 16:50:57] PayPal\Core\PayPalHttpConnection : DEBUG: Request Headers 	: POST /v1/oauth2/token HTTP/1.1, Host: api.sandbox.paypal.com, User-Agent: PayPalSDK/PayPal-PHP-SDK 1.14.0 (platform-ver=7.3.0; bit=32; os=Windows_NT_6.3; machine=i586; crypto-lib-ver=1.1.0j; curl=7.61.1), Authorization: Basic Og==, Accept: */*, Content-Length: 29, Content-Type: application/x-www-form-urlencoded, , 
+[30-04-2019 16:50:57] PayPal\Core\PayPalHttpConnection : DEBUG: Request Data		: grant_type=client_credentials
+--------------------------------------------------------------------------------------------------------------------------------
+
+[30-04-2019 16:50:57] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[30-04-2019 16:50:57] PayPal\Core\PayPalHttpConnection : DEBUG: Response Headers	: Date: Tue, 30 Apr 2019 16:50:57 GMT, Server: Apache, paypal-debug-id: 609c924e89139, X-PAYPAL-TOKEN-SERVICE: IAAS, HTTP_X_PP_AZ_LOCATOR: sandbox.slc, Paypal-Debug-Id: 609c924e89139, Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT, Vary: Authorization, Content-Length: 77, Connection: close, Content-Type: application/json, 
+[30-04-2019 16:50:57] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[30-04-2019 16:50:57] PayPal\Core\PayPalHttpConnection : DEBUG: 
+
+================================================================================================================================
+
